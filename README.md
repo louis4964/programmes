@@ -5,7 +5,7 @@ Bienvenue sur mon dépôt regroupant plusieurs programmes Python que j’ai dév
 
 ---
 
-## 🔧 Description des programmes
+##  Description des programmes
 
 ### 1.  Simulation de portefeuille financier
 Programme permettant d’analyser la croissance d’un portefeuille avec de nombreuses options :
